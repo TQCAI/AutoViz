@@ -1,6 +1,6 @@
 # AutoViz
 
-<center>![banner](logo.png)</center>
+<div align=center><img src="https://github.com/TQCAI/AutoViz/blob/master/logo.png" /></div>
 
 [![Pepy Downloads](https://pepy.tech/badge/autoviz)](https://pepy.tech/project/autoviz)
 [![Pepy Downloads per week](https://pepy.tech/badge/autoviz/week)](https://pepy.tech/project/autoviz)
