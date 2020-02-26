@@ -1,6 +1,6 @@
 # AutoViz
 
-![banner](logo.png)
+<center>![banner](logo.png)</center>
 
 [![Pepy Downloads](https://pepy.tech/badge/autoviz)](https://pepy.tech/project/autoviz)
 [![Pepy Downloads per week](https://pepy.tech/badge/autoviz/week)](https://pepy.tech/project/autoviz)
